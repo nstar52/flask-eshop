@@ -1,2 +1,2 @@
 # flask-eshop
-an imaginary e-shop.
+An imaginary e-shop.
