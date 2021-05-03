@@ -20,5 +20,4 @@ if app.config["ENV"] == "populate":
     populate()
 
 
-# from app import routes, models
-from app import models
+from app import routes, models
