@@ -1,6 +1,11 @@
 from app import db
 from datetime import datetime
 
+"""
+The following classes are the programatical
+representation of the database
+"""
+
 
 class Order(db.Model):
     __tablename__='order'
