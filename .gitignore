@@ -33,5 +33,5 @@ env.bak/
 venv.bak/
 
 # Environment configs
-.flaskenv
+#.flaskenv
 .vscode/
