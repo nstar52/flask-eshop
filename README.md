@@ -1,5 +1,5 @@
 # flask-eshop
-An imaginary e-shop. Testing
+An imaginary e-shop.
 
 # Instructions to run the app
 - Create an virtual env
